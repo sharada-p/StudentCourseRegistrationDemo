@@ -1,0 +1,9 @@
+D:\Demo\StudentCourseRegistration\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Demo\StudentCourseRegistration\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Demo\StudentCourseRegistration\BusinessLogic\bin\Debug\BusinessObject.dll
+D:\Demo\StudentCourseRegistration\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Demo\StudentCourseRegistration\BusinessLogic\bin\Debug\BusinessObject.pdb
+D:\Demo\StudentCourseRegistration\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Demo\StudentCourseRegistration\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Demo\StudentCourseRegistration\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Demo\StudentCourseRegistration\BusinessLogic\obj\Debug\BusinessLogic.pdb

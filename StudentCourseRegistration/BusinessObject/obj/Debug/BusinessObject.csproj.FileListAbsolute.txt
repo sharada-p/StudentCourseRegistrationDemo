@@ -1,0 +1,4 @@
+D:\Demo\StudentCourseRegistration\BusinessObject\bin\Debug\BusinessObject.dll
+D:\Demo\StudentCourseRegistration\BusinessObject\bin\Debug\BusinessObject.pdb
+D:\Demo\StudentCourseRegistration\BusinessObject\obj\Debug\BusinessObject.dll
+D:\Demo\StudentCourseRegistration\BusinessObject\obj\Debug\BusinessObject.pdb

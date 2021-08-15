@@ -1,0 +1,12 @@
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\bin\StudentCourseRegistration.dll.config
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\bin\StudentCourseRegistration.dll
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\bin\StudentCourseRegistration.pdb
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\bin\BusinessLogic.dll
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\bin\BusinessObject.dll
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\bin\DataAccess.dll
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\bin\BusinessLogic.pdb
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\bin\BusinessObject.pdb
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\bin\DataAccess.pdb
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\obj\Debug\StudentCourseRegistration.csprojResolveAssemblyReference.cache
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\obj\Debug\StudentCourseRegistration.dll
+D:\Demo\StudentCourseRegistration\StudentCourseRegistration\obj\Debug\StudentCourseRegistration.pdb

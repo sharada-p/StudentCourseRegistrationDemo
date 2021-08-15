@@ -1,0 +1,7 @@
+D:\Demo\StudentCourseRegistration\DataAccess\bin\Debug\DataAccess.dll
+D:\Demo\StudentCourseRegistration\DataAccess\bin\Debug\DataAccess.pdb
+D:\Demo\StudentCourseRegistration\DataAccess\bin\Debug\BusinessObject.dll
+D:\Demo\StudentCourseRegistration\DataAccess\bin\Debug\BusinessObject.pdb
+D:\Demo\StudentCourseRegistration\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Demo\StudentCourseRegistration\DataAccess\obj\Debug\DataAccess.dll
+D:\Demo\StudentCourseRegistration\DataAccess\obj\Debug\DataAccess.pdb
